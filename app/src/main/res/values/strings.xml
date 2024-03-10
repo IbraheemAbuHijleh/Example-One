@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EXAMPLE1</string>
+    <string-array name="Books">
+        <item>Java</item>
+        <item>C</item>
+        <item>Compliler</item>
+        <item>Os</item>
+        <item>Web</item>
+    </string-array>
+</resources>
